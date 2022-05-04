@@ -1,3 +1,2 @@
-# 8_Hello_VueJs
-
+# 8_VueJs_1st_Project
 My first simple VueJs project in 2022.
