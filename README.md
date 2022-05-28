@@ -1,2 +1,2 @@
-# VueJs-Mini-Project-1
-My first Mini VueJs Project in 2022.
+# Vue.js-Mini-Project-1
+My first Mini Project for practicing Vue.js in 2022.
